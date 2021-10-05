@@ -5,4 +5,4 @@ Mobiquity Challenge Design or Implementation Considerations
 I went for this approach in order to do exhaustive searching of all potential package item combinations. I also avoided any optimizations to keep the solution 
 readable.
 - Used combonent combosition instead of having the whole solution in a single class - the idea being that I should build a solution on the foundation of well tested
-combonents that are individually easy to understand and manatain the source code. 
+sub combonents that are individually easy to understand and manatain the source code. 
